@@ -1,29 +1,5 @@
 # Coding Interview University (Part 1 - Must Know)
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer,
-> but it grew to the large list you see today. After going through this study plan, [I got hired
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
->
-> The items listed here will prepare you well for in an interview at just about any software company,
-> including the giants: Amazon, Facebook, Google or Microsoft.
->
-> *Best of luck to you!*
-
-## What is it?
-
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
-
-## Why use it?
-
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good. Every data structure I've ever used was built into the language, and I didn't know how they worked under the hood at all. I've never had to manage memory unless a process I was running would give an "out of memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and thousands of associative arrays, but I've never created data structures from scratch.
-
-It's a long plan. It may take you months.
-
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
 ## Interview Process & General Interview Prep
 
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
